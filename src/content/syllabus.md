@@ -44,7 +44,7 @@ course staff via Slack direct message; we will not respond to emails.
 |                 | Office Hours                            | Location             |
 | --------------- | --------------------------------------- | -------------------- |
 | Cho Yin Yong    | Thursday 7-8pm or by online appointment | Available on Quercus |
-| Pourya Moghadam | Tuesday 5-6pm                           | Available on Quercus |
+| Pourya Moghadam | Monday 5-6pm                            | CS Help Lab          |
 
 # Course Information
 
